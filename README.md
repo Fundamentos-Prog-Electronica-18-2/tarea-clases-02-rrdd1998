@@ -3,7 +3,7 @@ Conversión de decimal a binario
 
 
 
-## Comando de uso de git
+## Comandos de uso de git
 
 * git status
 * git clone
